@@ -1,6 +1,6 @@
 {
   "name": "hubot-github-notifications",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that returns github notifications",
   "main": "index.js",
   "scripts": {
